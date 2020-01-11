@@ -1,0 +1,7 @@
+1 instalar git 2 dar permisos al git
+dra visto al git back here guit gui here 
+linea de comando
+gitcloneruta-ssh
+git commit-m
+git0 push origin master
+git pull origine master-bg
