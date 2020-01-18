@@ -4,4 +4,57 @@ linea de comando
 gitcloneruta-ssh
 git commit-m
 git0 push origin master
-git pull origine master-bg
+git pull origine master
+
+
+tipos de algoritmos:
+finito tiene inicio y final
+preciso resultado es unico
+entrada uno o mas entrada
+salida una unica salida
+definido siempre va a lleavr el mismo rsultado
+efecientes utilizar los recursos de manera optimizada
+
+consideraciones algoritmos
+errores recursos velocidad recursos economicos
+
+estructura del algoritmo
+entrada(datos) proceso(instrucciones) salida(resultado)
+
+ejercicio 
+elaborar un algoritmo para calcular la division de los numeros ey representar el algoritmo graficmente
+
+Proceso:
+15_3
+Resultado
+15:a
+3:b
+resultado:5:r.division
+
+1 Inicio
+2 Leer A, B
+3 Suma = A / B
+4 Imprimir Suma
+5 Fin
+
+
+
+pseudocodigo
+es uan forma de expresar los distntos pasos que va a realizar un programa de la forma mas parecida
+tipos de algoritmos
+cuantitantibvo
+tiene que tener una relacion matematico
+algoritmo cualitativo
+tiene un procesom no metematico
+
+tipos de identificadores
+constantes y variables
+
+
+
+tipos de datos
+hacen referencia al tipo de informacion que se trabaja todos los datos tienen un tipo de asociados con ellos
+el tipo de dato determina la naturaleza del conjunto de valores que puede tomar una variable
+
+
+
